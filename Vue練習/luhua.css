@@ -34,13 +34,6 @@ body{
   background-color: #ffffff;
   left: 18px;
   top: 36px;
-  animation-name: changecolor;
-  animation-timeline: scroll();
-  animation-range: 0vh 10vh;
-}
-@keyframes changecolor {
-0%{background-color: #ffffff;}
-100%{background-color: #222;}
 }
 .line .menu::before {
   background-color: #ffffff;
